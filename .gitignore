@@ -1,0 +1,27 @@
+# === Java / Maven ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+
+# === Node / Frontend ===
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# === Environment ===
+.env
+.env.local
