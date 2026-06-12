@@ -1,4 +1,4 @@
-# 🛍️ ShopVerse — E-Commerce Product Catalog & Cart
+# 🛍️ InighoStore — E-Commerce Product Catalog & Cart
 
 A **full-stack responsive e-commerce web application** built with **React.js** frontend and **Java Spring Boot REST API** backend, featuring product listing, search filtering, dynamic shopping cart via React state management, and MySQL/H2 database integration.
 
